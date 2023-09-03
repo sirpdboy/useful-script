@@ -1,5 +1,5 @@
 # useful-script
-
+wget -N --no-check-certificate "https://raw.githubusercontent.com/sirpdboy/useful-script/master/bbr" && chmod +x bbr.sh && ./bbr
 2023-0525 检测是否可以访问 ChatGPT 脚本 来源
 
 bash <(curl -Ls https://raw.githubusercontent.com/missuo/OpenAI-Checker/main/openai.sh)
